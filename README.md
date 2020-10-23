@@ -49,9 +49,6 @@ the end of class and it will not look quite like the gif.
 ## Credits
 ```
 User story and acceptance criteria are under copyright: © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-
-![gif name here](www.google.com)
-[test 2](www.google.com)
 ```
 ## License
 ```

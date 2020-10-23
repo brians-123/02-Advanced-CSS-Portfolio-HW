@@ -3,7 +3,8 @@ Creating a portfolio to display my work
 
 ## Description 
 ``
-This is homework for the second week of the UW/Trilogy coding bootcamp. In summary, this assignment will be to create the framework for a portfolio of my best work throughout the course. For this assignment, I will attempt to match an image of an example site without any source code. 
+This is homework for the second week of the UW/Trilogy coding bootcamp. In summary, this assignment will be to create the framework for a portfolio of my best work throughout the course. For this assignment, I will attempt to match an image of an example site without any source code.
+I created placeholders for all links other than references to targets on the page.
 ``
 
 ## Installation
@@ -39,9 +40,11 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Original
 ```
-This is the base site I'm trying to build. It will likely be enhanced before I'm finished. 
+This is the base site I'm trying to build towards in the first revision. I plan
+on using something similar, so I will likely turn this into a real project by
+the end of class and it will not look quite like the gif.
 ```
-<img src="./assets/02-advanced-css-homework-demo.gif">
+![Original concept](assets/02-advanced-css-homework-demo.gif)
 
 ## Credits
 ```
